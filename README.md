@@ -24,3 +24,6 @@ Keeping in simple :)
    ```bash
    git clone https://github.com/wildenza/weather-98.git
    might need an account on VisualCrossing website for an API key.
+
+## Demo
+![582ab60a970e1ec89e019194f56c0d49](https://github.com/user-attachments/assets/1104c9f4-7d44-493a-b776-4b10ff7beb5c)
